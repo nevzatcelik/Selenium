@@ -1,4 +1,4 @@
-package Practice;
+package Practice_AyseHocam;
 
 import org.openqa.selenium.ScreenOrientation;
 import org.openqa.selenium.WebDriver;
